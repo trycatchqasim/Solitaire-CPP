@@ -68,10 +68,8 @@ It features:
 
 ## 🧠 Technologies Used
 
-- 💻 C++ (Object-Oriented Programming)
-- 🧵 Templates (Generic Stack)
+- 💻 C++ (Data Structures)
 - 🌈 ANSI Escape Codes for coloring
 - 🧼 `conio.h` and `system("cls")` for screen clearing
-- 🃏 Linked lists for tableau columns
 
 ---
