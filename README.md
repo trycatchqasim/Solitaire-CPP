@@ -1,6 +1,4 @@
 
----
-
 ## 🎮 Game Overview
 
 This is a command-line Solitaire game based on the classic Klondike rules. The goal is to move all 52 cards into the four **foundations** (one for each suit), arranged in ascending order from Ace to King.
