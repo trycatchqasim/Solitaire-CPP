@@ -71,3 +71,5 @@ It features:
 - 🧼 `conio.h` and `system("cls")` for screen clearing
 
 ---
+
+![Solitaire](solitaire.png)
