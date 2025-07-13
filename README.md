@@ -14,6 +14,10 @@ It features:
 
 ---
 
+![Solitaire](solitaire.png)
+
+---
+
 ## ✨ Features
 
 - 🧱 **OOP Design**: Classes like `Card`, `Suit`, `Stack`, `CardStack`, `DoublyLinkedList`, and `Game`.
@@ -71,5 +75,3 @@ It features:
 - 🧼 `conio.h` and `system("cls")` for screen clearing
 
 ---
-
-![Solitaire](solitaire.png)
